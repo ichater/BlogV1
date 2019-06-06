@@ -37,6 +37,9 @@ body {
 }
 
 #bruno-title {
-    font-weight: 700;
+    font-weight: 900;
     text-transform: uppercase;
+    box-sizing: border-box;
+    text-shadow: none;
+    font-family: 'Montserrat', sans-serif;
 }
