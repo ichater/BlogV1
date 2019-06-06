@@ -35,3 +35,8 @@ body {
         display: none;
     }
 }
+
+#bruno-title {
+    font-weight: 700;
+    text-transform: uppercase;
+}
